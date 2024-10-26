@@ -84,10 +84,10 @@ buttonParamsJson: JSON.stringify({
     title: '⌈🦇╎اوامــر الــبــوت╎🦇⌋',
     sections: [
         {
-            title: '⌈🦇╎اوامــر الــمــطــور╎🦇⌋',
+            title: '⌈🇪🇬╎اوامــر الــمــطــور╎🇪🇬⌋',
             highlight_label: 'By © 𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊',
             rows: [
-                { header: 'تعريف المطور', title: '⌈🦇╎تعريف المطور╎🦇⌋', description: 'تعرف على المطور', id: '.المعرف', highlight_label: 'By © 𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊' },
+                { header: 'تعريف المطور', title: '⌈🇪🇬╎تعريف المطور╎🇪🇬⌋', description: 'تعرف على المطور', id: '.المعرف', highlight_label: 'By © 𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊' },
                 { header: 'قائمه المطور', title: '⌈🦇╎قسم المطور╎🦇⌋', description: 'قسم خاص بالمطور فقط', id: '.ق3', highlight_label: 'By © 𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊' }
             ]
         },
