@@ -8,14 +8,14 @@ const handler = async (m, { conn, usedPrefix, command }) => {
       key: {
         fromMe: false,
         participant: '0@s.whatsapp.net',
-        ...(false ? { remoteJid: '972546887176@s.whatsapp.net' } : {})
+        ...(false ? { remoteJid: '967778668253@s.whatsapp.net' } : {})
       },
       message: {
         'productMessage': {
           'product': {
             'productImage': { 'mimetype': 'image/jpeg' },
             'title': 'رساله من قبل المطور ˚₊·˚₊· ͟͟͞͞➳❥ 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧 ⛌',
-            'description': '❉⌠ ⚜️ 𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊 ⚜️ ⌡⁦❉',
+            'description': '❉⌠ ⚜️ Dazai🖤 ⚜️ ⌡⁦❉',
             'currencyCode': 'USD',
             'priceAmount1000': '1000000000',
             'retailerId': 'Ghost',
