@@ -26,7 +26,7 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
 > ˼🧑‍💻˹↜  قــســم الــمــشــرفـيـن ↶
-*❐═━━━═╊⊰🦇⊱╉═━━━═❐*
+*❐═━━━═╊⊰⚕️⊱╉═━━━═❐*
 *❐『.طرد』*
 *❐『.ترقية』*
 *❐『.اعفاء』*
@@ -43,8 +43,8 @@ let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
 *❐『.المغادرة』*
 *❐『.جروب فتح/قفل』*
 *❐『لينك』*
-*❐═━━━═╊⊰🦇⊱╉═━━━═❐*
-> © 𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊 2025`.trim()
+*❐═━━━═╊⊰⚕️⊱╉═━━━═❐*
+> © Dazai🖤 2025`.trim()
    const _0x3c7cab = _0x5a1d;
 
         function _0x5a1d(_0x1b92fa, _0x42ca62) {
@@ -58,7 +58,7 @@ let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
         }
 
         function _0x42ca() {
-            const _0xe1e20e = ['2409147cMTtvV', '70SxKSwY', 'trim', '2708027tOnEUS', '831853GQAjyu', '6ZrUjVF', '𝐑𝐀𝐈𝐙𝐄𝐋﹝🦇﹞𝐔𝐏𝐃𝐀𝐓𝐄', '406070MLYaeB', 'https://whatsapp.com/channel/0029VaoUBmSKmCPIIiEatx1H', '4YbGMkZ', '840496IPJeXP', '322835aPaRGc', 'VIDEO', '3639410cLSfPv', 'sender', '9LtUyCF'];
+            const _0xe1e20e = ['2409147cMTtvV', '70SxKSwY', 'trim', '2708027tOnEUS', '831853GQAjyu', '6ZrUjVF', 'Dazai🖤', '406070MLYaeB', 'https://whatsapp.com/channel/0029VapxAcz4SpkEe0XN6X3V', '4YbGMkZ', '840496IPJeXP', '322835aPaRGc', 'VIDEO', '3639410cLSfPv', 'sender', '9LtUyCF'];
             _0x42ca = function () {
                 return _0xe1e20e;
             };
